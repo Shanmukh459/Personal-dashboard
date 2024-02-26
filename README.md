@@ -1,4 +1,4 @@
-# co008433b9087879c87c2ded7
+# Personal Dashboard - Chrome Extension
 
 Quick start:
 
