@@ -23,7 +23,7 @@
 - [OpenWeather](https://openweathermap.org/current#geo) - Weather
 - navigator object - Location
 
-### Few screenshots of Dashboards
+### Few screenshots of Dashboards 🖼️
 
 ![image](https://github.com/Shanmukh459/Personal-dashboard/assets/52078988/1d2aeb08-82e2-4379-996c-59dbf91709eb)
 
