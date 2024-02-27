@@ -1,21 +1,36 @@
 # Personal Dashboard - Chrome Extension
 
-Quick start:
+- Often wondered if there is chance to customize default dashboard of your browser beyond the options available?
+- This is one of the solution I came up with which uses few free API services to pull information.
+- This information is available when ever user opens a new tab
+- The images are refreshed everytime a new tab is opened to enhance the user experience
+- The screen contains:
+  - Weather Data (Location and Temperature)
+  - Crypto (Doge)
+  - Picture info (Author and Location)
+  - Time
 
-```
-$ npm install
-$ npm start
-````
+### Tech used ⚙️
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- HTML
+- CSS
+- Async JavaScript
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### API services used 🐕‍🦺
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [Coingecko](https://www.coingecko.com/api/documentations/v3#/) - Cyrpto
+- [Unsplash](https://unsplash.com/developers) - Background HD image
+- [OpenWeather](https://openweathermap.org/current#geo) - Weather
+- navigator object - Location
+
+### Few screenshots of Dashboards
+
+![image](https://github.com/Shanmukh459/Personal-dashboard/assets/52078988/1d2aeb08-82e2-4379-996c-59dbf91709eb)
+
+![image](https://github.com/Shanmukh459/Personal-dashboard/assets/52078988/f4c61406-e001-403f-8cf5-395c790b965a)
+
+### Future additions
+
+- Planning to add a quote somewhere on the screen
 
 Happy Coding!
